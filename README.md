@@ -1,0 +1,2 @@
+# SubmoduleRepository_Nikitin
+A submodule for TrainingRepository_Nikitin
